@@ -10,7 +10,7 @@ const services = [
 		title: "Web Development",
 		description:
 			"High-performance websites and scalable web platforms built for growth.",
-		slug: "/services/web",
+		slug: "/services",
 		image:
 			"https://res.cloudinary.com/dwsm6i6z9/image/upload/v1766996535/ChatGPT_Image_Dec_29_2025_01_52_03_PM_c2t58z.png",
 	},
@@ -18,7 +18,7 @@ const services = [
 		title: "Custom Web Applications",
 		description:
 			"Enterprise-grade applications engineered for performance and security.",
-		slug: "/services/web-apps",
+		slug: "/services",
 		image:
 			"https://res.cloudinary.com/dgulr1hgd/image/upload/v1752942492/zonkey-ai-generated-website-content_uwwet5.jpg",
 	},
@@ -26,7 +26,7 @@ const services = [
 		title: "Mobile App Development",
 		description:
 			"Modern iOS & Android applications with seamless user experience.",
-		slug: "/services/mobile",
+		slug: "/services",
 		image:
 			"https://res.cloudinary.com/dwsm6i6z9/image/upload/v1767000149/photo-1556155092-8707de31f9c4_epsvvb.jpg",
 	},

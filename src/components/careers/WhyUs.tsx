@@ -42,7 +42,7 @@ const items = [
 
 export default function WhyUs() {
 	return (
-		<section className="relative isolate bg-white py-20 md:py-24 overflow-hidden">
+		<section className="relative isolate bg-white py-10 md:py-12 overflow-hidden">
 			{/* Soft brand background accent */}
 			<div className="pointer-events-none absolute -top-32 right-[-8rem] h-[420px] w-[420px] rounded-full bg-gradient-to-br from-[#00A0E3]/15 to-[#0365D0]/15 blur-[120px]" />
 

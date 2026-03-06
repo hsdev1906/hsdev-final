@@ -39,7 +39,7 @@ export default function OpenPositions() {
 	const [selectedRole, setSelectedRole] = useState<Role | null>(null);
 
 	return (
-		<section id="open-roles" className="bg-white py-24">
+		<section id="open-roles" className="bg-white py-10">
 			<div className="mx-auto max-w-7xl px-6">
 				{/* ===== Header ===== */}
 				<div className="mx-auto max-w-3xl text-center">

@@ -15,9 +15,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-	title: "VR Tech Forz",
+	title: "HS dev",
 	description:
-		"VR Tecg Forz is a professional IT company offering web development, mobile app development, ecommerce solutions, and custom software services.",
+		"HS Dev is a forward-thinking software company crafting scalable web applications, modern UI/UX, and high-performance digital solutions.",
 };
 
 export default function RootLayout({

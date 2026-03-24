@@ -18,10 +18,10 @@ export default function Footer() {
 					{/* Logo */}
 					<Link href="/" className="flex items-center gap-3">
 						<Image
-							src="https://res.cloudinary.com/dwsm6i6z9/image/upload/v1771573475/VR_Techforz_-_Logo_PNG_lvnctv.png"
-							alt="VR Tech Forz Logo"
-							width={190}
-							height={50}
+							src="https://res.cloudinary.com/dgulr1hgd/image/upload/v1774331703/HS_Dev_no_bg_HD_ybq7wy.png"
+							alt="HS Dev Logo"
+							width={140}
+							height={35}
 							className="brightness-160"
 						/>
 					</Link>
@@ -38,7 +38,7 @@ export default function Footer() {
 
 						<SocialLink
 							href="https://www.linkedin.com/"
-							ariaLabel="VR Tech Forz on LinkedIn"
+							ariaLabel="HS Dev on LinkedIn"
 							label="LinkedIn">
 							<LinkedInIcon className="h-4 w-4 text-[#00A0E3]" />
 							<span className="ml-1.5">LinkedIn</span>
@@ -46,7 +46,7 @@ export default function Footer() {
 
 						<SocialLink
 							href="https://twitter.com/"
-							ariaLabel="VR Tech Forz on Twitter/X"
+							ariaLabel="HS Dev on Twitter/X"
 							label="Twitter">
 							<XIcon className="h-4 w-4 text-[#0365D0]" />
 							<span className="ml-1.5">Twitter</span>
@@ -59,9 +59,7 @@ export default function Footer() {
 
 				{/* Bottom */}
 				<div className="mt-6 flex flex-col items-start justify-between gap-3 text-xs text-white/60 md:flex-row md:items-center">
-					<p>
-						© {new Date().getFullYear()} VR Tech Forz · Division of The VR Group
-					</p>
+					<p>© {new Date().getFullYear()} HS Dev · Division of The VR Group</p>
 
 					<p>
 						Trusted systems.{" "}

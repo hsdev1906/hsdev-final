@@ -96,8 +96,8 @@ export default function OpenPositions() {
 					</h3>
 
 					<p className="mt-4 text-gray-600 max-w-xl mx-auto">
-						At VR Tech Forz, you don’t just build software — you build
-						high-impact systems shaping industries.
+						At HS Dev, you don’t just build software — you build high-impact
+						systems shaping industries.
 					</p>
 				</div>
 			</div>

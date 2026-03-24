@@ -44,7 +44,7 @@ export default function AboutHero() {
 					animate={{ opacity: 1, y: 0 }}
 					transition={{ duration: 0.6 }}
 					className="text-sm tracking-[0.25em] uppercase text-[#00A0E3] font-medium">
-					About VR Tech Forz
+					About HS Dev
 				</motion.p>
 
 				{/* Heading */}
@@ -65,7 +65,7 @@ export default function AboutHero() {
 					animate={{ opacity: 1, y: 0 }}
 					transition={{ duration: 0.8, delay: 0.2 }}
 					className="mt-8 mx-auto max-w-3xl text-lg text-white/70 leading-relaxed">
-					VR Tech Forz is a next-generation technology company building modern,
+					HS Dev is a next-generation technology company building modern,
 					scalable, and AI-powered digital solutions for businesses worldwide.
 				</motion.p>
 

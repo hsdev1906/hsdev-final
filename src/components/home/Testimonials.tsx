@@ -17,7 +17,7 @@ const TESTIMONIALS: Testimonial[] = [
 		name: "Narayana Swamy",
 		role: "Founder, Biz-Network®",
 		quote:
-			"Working with Tech Forz has been a game-changer for Biz-Network®. We’ve taken several full-stack and front-end applications from Tech Forz. Each one delivered with precision, performance, and attention to detail. From our main Biz-Network® platform to supporting tools, their work has consistently exceeded expectations.",
+			"Working with HS Dev has been a game-changer for Biz-Network®. We’ve taken several full-stack and front-end applications from Tech Forz. Each one delivered with precision, performance, and attention to detail. From our main Biz-Network® platform to supporting tools, their work has consistently exceeded expectations.",
 		avatar:
 			"https://res.cloudinary.com/dsq4uyqbb/image/upload/v1741327062/n_f2djcv.jpg",
 	},
@@ -33,7 +33,7 @@ const TESTIMONIALS: Testimonial[] = [
 		name: "Rajesh",
 		role: "Operations Manager",
 		quote:
-			"The admin panel is really easy to use. I can add new spaces, update the gallery, and control availability without any trouble. The user side is smooth too, and everything works perfectly. Tech Forz made it simple and efficient for both admins and users.",
+			"The admin panel is really easy to use. I can add new spaces, update the gallery, and control availability without any trouble. The user side is smooth too, and everything works perfectly. HS Dev made it simple and efficient for both admins and users.",
 		avatar:
 			"https://res.cloudinary.com/dk0smdu0d/image/upload/v1758024373/WhatsApp_Image_2025-09-16_at_17.19.30_bfd962e4_ykyf5n.jpg",
 	},

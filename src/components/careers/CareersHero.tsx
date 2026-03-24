@@ -18,7 +18,7 @@ export default function CareersHero() {
 						{/* Badge */}
 						<div className="inline-flex items-center gap-2 rounded-full border border-white/40 bg-white/20 px-3 py-1 text-[11px] font-medium text-white backdrop-blur">
 							<span className="inline-block h-1.5 w-1.5 rounded-full bg-white" />
-							Careers at VR Tech Forz
+							Careers at HS Dev
 						</div>
 
 						<h1 className="mt-6 text-3xl font-semibold tracking-tight text-white md:text-5xl">
@@ -30,8 +30,8 @@ export default function CareersHero() {
 						</h1>
 
 						<p className="mt-5 max-w-xl text-sm text-white/90 md:text-base leading-relaxed">
-							At VR Tech Forz, we design intelligent, scalable, cloud-native
-							systems that power modern businesses. Join a team where{" "}
+							At HS Dev, we design intelligent, scalable, cloud-native systems
+							that power modern businesses. Join a team where{" "}
 							<span className="font-semibold text-white">
 								innovation, ownership, and impact
 							</span>{" "}

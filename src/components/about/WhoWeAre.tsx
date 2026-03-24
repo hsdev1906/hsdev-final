@@ -62,7 +62,7 @@ export default function WhoWeAre() {
 						</h2>
 
 						<p className="mt-8 text-lg text-gray-600 leading-relaxed max-w-xl">
-							VR Tech Forz is a forward-thinking technology company delivering
+							HS Dev is a forward-thinking technology company delivering
 							scalable web platforms, AI-powered ecosystems, and
 							enterprise-grade digital solutions built for performance and
 							long-term growth.

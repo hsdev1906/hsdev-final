@@ -59,8 +59,8 @@ export default function Hero() {
 			<div className="relative z-10 mx-auto max-w-7xl px-6">
 				<div className="mx-auto max-w-3xl text-center">
 					<div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-[12px] text-white/80 backdrop-blur">
-						<span className="inline-block h-1.5 w-1.5 rounded-full bg-gradient-to-r from-[#0365D0] to-[#0E3C6E]" />
-						VR Tech Forz • Division of The VR Group
+						{/* <span className="inline-block h-1.5 w-1.5 rounded-full bg-gradient-to-r from-[#0365D0] to-[#0E3C6E]" />
+						VR Tech Foz • Division of The VR Group */}
 					</div>
 
 					<h1 className="mt-6 text-4xl font-semibold tracking-tight text-white md:text-6xl">

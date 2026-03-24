@@ -51,7 +51,7 @@ export default function WhyUs() {
 				<div className="md:w-[34%]">
 					<div className="inline-flex items-center gap-2 rounded-full border border-[#0365D0]/20 bg-[#0365D0]/5 px-3 py-1 text-[11px] font-medium text-[#0365D0]">
 						<span className="inline-block h-1.5 w-1.5 rounded-full bg-gradient-to-r from-[#00A0E3] to-[#0365D0]" />
-						Why work with VR Tech Forz?
+						Why work with HS Dev?
 					</div>
 
 					<h2 className="mt-4 text-3xl font-semibold tracking-tight text-gray-900 md:text-4xl">

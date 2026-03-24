@@ -9,6 +9,10 @@ const logos: string[] = [
 	"https://res.cloudinary.com/dwsm6i6z9/image/upload/v1771917357/ULHC_Logo_-_PNG_yjb2jy.png",
 	"https://res.cloudinary.com/dwsm6i6z9/image/upload/v1767159149/vr_greentek_enegrgy_orange_bold_zzwnkq.png",
 	"https://res.cloudinary.com/dgulr1hgd/image/upload/v1758015372/3_rua9gv.png",
+	"https://res.cloudinary.com/dsq4uyqbb/image/upload/v1752936899/4_bgqtwl.jpg",
+	"https://res.cloudinary.com/dsq4uyqbb/image/upload/v1752936895/3_r2tlqy.jpg",
+	"https://res.cloudinary.com/dsq4uyqbb/image/upload/v1752936892/1_teiasc.jpg",
+	"https://res.cloudinary.com/dsq4uyqbb/image/upload/v1744796359/Logos_For_We_Work_t24ef3.png",
 ];
 
 export default function LogoCarousel() {
